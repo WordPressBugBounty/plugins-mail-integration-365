@@ -1,0 +1,1 @@
+# plugins-mail-integration-365
